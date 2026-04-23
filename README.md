@@ -1,18 +1,15 @@
-## Hi,
+# Hi, 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b-u-g-g&theme=github-dark)
+### Key Projects (Private)
+* **Lagoon** – A high-end networking application focused on minimalist UI and seamless discovery.
+* **Intelligent IP Automation** – AI-driven workflow for legal firms to automate trademark status tracking and clerical data entry.
 
-<!--
-**b-u-g-g/b-u-g-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Internship Experience
+* **Azure Networking (Microsoft)** – Worked on packet-level debugging and TCP flow lifecycle tracking using **Rust**.
+* **Carbon Registry Intelligence** – Engineered a large-scale data extraction engine for CAD Trust, Verra, and Gold Standard (300k+ records).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b-u-g-g&theme=github-dark&area=true&hide_border=true)
+
