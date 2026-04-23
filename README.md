@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi,
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b-u-g-g&theme=github-dark)
 
 <!--
 **b-u-g-g/b-u-g-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
