@@ -26,6 +26,6 @@
 
 ### Technical Toolkit
 * **Languages:** Rust, Python, TypeScript, C++
-* **Cloud & Infrastructure:** Azure, AWS (Solutions Architect), 
+* **Cloud & Infrastructure:** Azure, AWS 
 * **Data Science:** Random Forest Regression, LLM RAG Pipelines, Large-scale Web Scraping
 
