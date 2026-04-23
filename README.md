@@ -5,11 +5,14 @@
 * **Intelligent IP Automation** – AI-driven workflow for legal firms to automate trademark status tracking and clerical data entry.
 
 ### Internship Experience
-* **Azure Networking (Microsoft)** – Worked on packet-level debugging and TCP flow lifecycle tracking using **Rust**.
+* **Azure Networking** – Worked on packet-level debugging and TCP flow lifecycle tracking using **Rust**.
 * **Carbon Registry Intelligence** – Engineered a large-scale data extraction engine for CAD Trust, Verra, and Gold Standard (300k+ records).
 
----
 
-### 📈 Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b-u-g-g&theme=github_dark)
+
+
+### Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b-u-g-g&theme=github-dark&area=true&hide_border=true)
 
