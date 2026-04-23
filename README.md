@@ -22,7 +22,7 @@
 </table>
 
 > [!IMPORTANT]
-> **Kindly check out my public repositories below** to see my work in distributed systems, Rust implementations, and data scraping architecture.
+> **Kindly check out my public repositories below** to see my work, if you find any repo useful please do give it a star. Also, you can raise issues in the repos.
 
 ### Technical Toolkit
 * **Languages:** Rust, Python, TypeScript, C++
